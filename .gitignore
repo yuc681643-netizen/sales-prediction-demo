@@ -1,0 +1,28 @@
+# 原始和清洗后的逐条数据仅保存在本地
+/data/*
+!/data/README.md
+/results/test_predictions.csv
+
+# 环境、缓存和编辑器文件
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter/
+.idea/
+.vscode/
+
+# 密钥、日志、运行时文件和本地打包产物
+.env
+.env.*
+*.pem
+*.key
+*.log
+jpserver-*.json
+*.zip
+/CHECK_REPORT.md
+Thumbs.db
+desktop.ini
+.DS_Store

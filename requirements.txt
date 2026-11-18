@@ -1,0 +1,10 @@
+# 本项目已在 Python 3.12.10 / Windows CPU 环境运行验证
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+xgboost==3.4.1
+jupyter==1.1.1
+notebook==7.6.5
+openpyxl==3.1.5
